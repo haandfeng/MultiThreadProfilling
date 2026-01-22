@@ -1,51 +1,38 @@
-startup	time=1768981452278665151
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=0.75	duration=430305594	selected-samples=1443
-throughput-point	name=func1_parallel_done	delta=1
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=0.90	duration=836176372	selected-samples=2874
-throughput-point	name=func2_done	delta=4
-throughput-point	name=func1_parallel_done	delta=3
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=0.40	duration=1849535056	selected-samples=5899
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=7
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=0.85	duration=1689673024	selected-samples=5747
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=1.00	duration=1610812840	selected-samples=6072
-throughput-point	name=func2_done	delta=7
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.80	duration=734468880	selected-samples=1582
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.25	duration=1603817720	selected-samples=1585
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.80	duration=733441297	selected-samples=1583
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.00	duration=2000063376	selected-samples=1581
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.50	duration=1204569272	selected-samples=1591
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.70	duration=889866608	selected-samples=1586
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.35	duration=1444964832	selected-samples=1586
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.00	duration=2000064784	selected-samples=1580
-throughput-point	name=func2_done	delta=8
-throughput-point	name=func1_parallel_done	delta=8
-experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	speedup=0.00	duration=2000074480	selected-samples=1311
-throughput-point	name=func2_done	delta=7
-throughput-point	name=func1_parallel_done	delta=6
-runtime	time=25743934754
-samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	count=19851
-samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	count=231
-samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	count=77270
-samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:19	count=2324
-samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:36	count=126
-samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:42	count=1
-samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:65	count=39
-samples	location=/usr/include/c++/12/bits/std_thread.h:163	count=2
+startup	time=1768987329280755191
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=0.00	duration=500098190	selected-samples=1590
+throughput-point	name=everything_done	delta=2
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=0.00	duration=1000084436	selected-samples=3017
+throughput-point	name=everything_done	delta=3
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	speedup=0.40	duration=1842309201	selected-samples=6176
+throughput-point	name=everything_done	delta=7
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.75	duration=812066327	selected-samples=1584
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.70	duration=891052860	selected-samples=1584
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.00	duration=2000069053	selected-samples=1583
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.85	duration=650264905	selected-samples=1588
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.60	duration=1064072285	selected-samples=1560
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.90	duration=562765984	selected-samples=1597
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.00	duration=2000064499	selected-samples=1571
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.00	duration=2000069078	selected-samples=1590
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.20	duration=1682444321	selected-samples=1587
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.90	duration=572663989	selected-samples=1586
+throughput-point	name=everything_done	delta=8
+experiment	selected=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	speedup=0.95	duration=919915033	selected-samples=1137
+throughput-point	name=everything_done	delta=6
+runtime	time=25934764034
+samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:10	count=2896
+samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:11	count=17190
+samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:18	count=76721
+samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:19	count=2811
+samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:35	count=160
+samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:40	count=2
+samples	location=/home/tyf/repos/MultiThreadProfilling/multi/cozMulti.cpp:58	count=47
+samples	location=/usr/include/c++/12/bits/std_thread.h:163	count=4
