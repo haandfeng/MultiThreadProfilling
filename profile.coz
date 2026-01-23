@@ -1,6 +1,0 @@
-startup	time=1768988010506338670
-runtime	time=1045606830
-samples	location=/home/tyf/repos/MultiThreadProfilling/cozSingle.cpp:7	count=192
-samples	location=/home/tyf/repos/MultiThreadProfilling/cozSingle.cpp:8	count=9
-samples	location=/home/tyf/repos/MultiThreadProfilling/cozSingle.cpp:16	count=765
-samples	location=/home/tyf/repos/MultiThreadProfilling/cozSingle.cpp:17	count=38
